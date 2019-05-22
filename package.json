@@ -30,7 +30,7 @@
     }
   ],
   "main": "build/main.js",
-  "name": "signalr-no-jquery",
+  "name": "giolvani/signalr-no-jquery",
   "readme": "README.md",
   "repository": {
     "type": "git",
