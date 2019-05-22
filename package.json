@@ -1,10 +1,10 @@
 {
   "author": {
-    "name": "Pawel",
-    "url": "https://github.com/dvlp"
+    "name": "Giolvani",
+    "url": "https://github.com/giolvani"
   },
   "bugs": {
-    "url": "https://github.com/DVLP/signalr-no-jquery/issues"
+    "url": "https://github.com/giolvani/signalr-no-jquery/issues"
   },
   "description": "Javascript SignalR client without jQuery dependency",
   "dependencies": {
@@ -18,7 +18,7 @@
     "babel-preset-es2015": "*",
     "babel-preset-stage-0": "*"
   },
-  "homepage": "https://github.com/DVLP/signalr-no-jquery",
+  "homepage": "https://github.com/giolvani/signalr-no-jquery",
   "keywords": [
     "signalr"
   ],
@@ -29,12 +29,12 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
-  "main": "build/signalR.js",
+  "main": "build/main.js",
   "name": "signalr-no-jquery",
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DVLP/signalr-no-jquery.git"
+    "url": "git+https://github.com/giolvani/signalr-no-jquery.git"
   },
   "scripts": {
     "build": "babel src --presets babel-preset-es2015 --out-dir build"
